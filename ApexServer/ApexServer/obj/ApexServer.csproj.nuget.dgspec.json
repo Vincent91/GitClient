@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vlad/RiderProjects/ApexServer/ApexServer/ApexServer.csproj": {}
+  },
+  "projects": {
+    "/Users/vlad/RiderProjects/ApexServer/ApexServer/ApexServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vlad/RiderProjects/ApexServer/ApexServer/ApexServer.csproj",
+        "projectName": "ApexServer",
+        "projectPath": "/Users/vlad/RiderProjects/ApexServer/ApexServer/ApexServer.csproj",
+        "packagesPath": "/Users/vlad/.nuget/packages/",
+        "outputPath": "/Users/vlad/RiderProjects/ApexServer/ApexServer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vlad/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/vlad/.dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sLXgEvhjnAHrC/W9byff61G4Zu63zxm81Duyxu7z2jE=",
+  "Source": "ApexServer",
+  "BasePath": "_content/ApexServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
